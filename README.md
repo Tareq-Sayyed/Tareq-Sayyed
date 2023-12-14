@@ -1,6 +1,6 @@
 Name: Tareq El-Sayyed. 
 Birthdate: 09-05-2003. 
-University Major: Bachelor of Computer Science [2nd year]. 
+University Major: Bachelor of Computer Science [last year]. 
 Interests: Tech, Business, Politics, Finance. 
 Hobbies: Gaming, Sports.
 Contact me:
